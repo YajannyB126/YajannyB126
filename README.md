@@ -1,15 +1,15 @@
 <h1 style="font-family: 'Didot', serif; font-weight: bold;">¡Hola! Soy Yajanny Mena Berrio</h1>
 
 
-
-
 <h2 style="font-family: 'Didot', serif;">✨ Sobre mí</h2>
 <p style="font-family: 'Arial', sans-serif;">
-Soy estudiante de Ingeniería de Telecomunicaciones e Informática, apasionada por la tecnología y el desarrollo web. 
-Me encanta trabajar en proyectos innovadores que aporten soluciones eficientes. 
-Siempre estoy en busca de mejorar mis habilidades y aprender nuevas tecnologías.
+Apasionada por el desarrollo de software y el desarrollo web. Me encanta trabajar en proyectos innovadores que aporten soluciones eficientes. 
+Siempre estoy en busca de mejorar mis habilidades y aprender nuevas tecnologías. Soy una joven soñadora que siempre busca superar sus expectativas,  me gusta estar presente en escenarios que contribuyan a mi desarrollo personal y profesional
+
+ 
+
 </p>
-<br>
+
 
 
 <h2 style="font-family: 'Didot', serif;">🛠️ Habilidades Técnicas</h2>
@@ -32,6 +32,8 @@ Siempre estoy en busca de mejorar mis habilidades y aprender nuevas tecnologías
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
+
+
 
 <h3 style="font-family: 'Didot', serif;">Herramientas esenciales:</h3>
 <p>
@@ -60,4 +62,4 @@ Siempre estoy en busca de mejorar mis habilidades y aprender nuevas tecnologías
 
 
 
-<h3 style="font-family: 'Didot', serif;"> ¡Gracias por visitar mi perfil! :)</h3>
+<p style="font-family: 'Didot', serif;"> ¡Gracias por visitar mi perfil! :)</p>
