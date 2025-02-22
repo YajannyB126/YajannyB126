@@ -42,13 +42,6 @@ Siempre estoy en busca de mejorar mis habilidades y aprender nuevas tecnologías
 </p>
 
 
-<h2 style="font-family: 'Didot', serif;">📩 Contáctame</h2>
-<p style="font-family: 'Arial', sans-serif;">
-  📧 <strong>Correo:</strong> <a href="mailto:tuemail@example.com">yajannymena95@gmail.com</a> <br>
-  🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/tuusuario" target="_blank">https://www.linkedin.com/in/yajanny-mena-berrio-224817282/</a>
-</p>
-
-
 
 <h2 style="font-family: 'Didot', serif;">🌍 Idiomas</h2>
 <ul style="font-family: 'Arial', sans-serif;">
@@ -65,6 +58,13 @@ Siempre estoy en busca de mejorar mis habilidades y aprender nuevas tecnologías
   <li>🌅 <b>Ver el atardecer</b> – Me encanta admirar la belleza que hay en cada atardecer.</li>
   <li>✈️ <b>Viajar</b> – Me permite salir de mi zona de confort para conocer nuevos lugares.</li>
 </ul>
+
+
+<h2 style="font-family: 'Didot', serif;">📩 Contáctame</h2>
+<p style="font-family: 'Arial', sans-serif;">
+  📧 <strong>Correo:</strong> <a href="mailto:tuemail@example.com">yajannymena95@gmail.com</a> <br><br>
+  🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/tuusuario" target="_blank">https://www.linkedin.com/in/yajanny-mena-berrio-224817282/</a>
+</p>
 
 
 
