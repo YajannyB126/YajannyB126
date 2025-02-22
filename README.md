@@ -52,7 +52,7 @@ Siempre estoy en busca de mejorar mis habilidades y aprender nuevas tecnologías
 
 
 
-<h2 style="font-family: 'Didot', serif;">🎭 Intereses personales</h2>
+<h2 style="font-family: 'Didot', serif;">🎨 Intereses personales</h2>
 <ul style="font-family: 'Arial', sans-serif;">
   <li>📖 <b>Leer</b> – Disfruto sumergirme en cada historia o lección.</li>
   <li>✍️ <b>Escribir poemas</b> – Me permite expresar emociones.</li>
