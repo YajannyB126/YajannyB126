@@ -1,4 +1,4 @@
-<h1 style="font-family: 'Didot', serif; font-weight: bold;">¡Hola! 👋 Soy Yajanny Mena Berro</h1>
+<h1 style="font-family: 'Didot', serif; font-weight: bold;">¡Hola! Soy Yajanny Mena Berro</h1>
 
 
 
@@ -60,4 +60,4 @@ Siempre estoy en busca de mejorar mis habilidades y aprender nuevas tecnologías
 
 
 
-<h3 align="center" style="font-family: 'Didot', serif;">✨ ¡Gracias por visitar mi perfil! 🚀</h3>
+<h4 align="center" style="font-family: 'Didot', serif;"> ¡Gracias por visitar mi perfil! :)</h3>
