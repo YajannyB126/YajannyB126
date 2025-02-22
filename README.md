@@ -1,4 +1,4 @@
-<h1 style="font-family: 'Didot', serif; font-weight: bold;">¡Hola! Soy Yajanny Mena Berro</h1>
+<h1 style="font-family: 'Didot', serif; font-weight: bold;">¡Hola! Soy Yajanny Mena Berrio</h1>
 
 
 
@@ -9,7 +9,7 @@ Soy estudiante de Ingeniería de Telecomunicaciones e Informática, apasionada p
 Me encanta trabajar en proyectos innovadores que aporten soluciones eficientes. 
 Siempre estoy en busca de mejorar mis habilidades y aprender nuevas tecnologías.
 </p>
-
+<br>
 
 
 <h2 style="font-family: 'Didot', serif;">🛠️ Habilidades Técnicas</h2>
@@ -44,8 +44,8 @@ Siempre estoy en busca de mejorar mis habilidades y aprender nuevas tecnologías
 
 <h2 style="font-family: 'Didot', serif;">🌍 Idiomas</h2>
 <ul style="font-family: 'Arial', sans-serif;">
-  <li>🇪🇸 <strong>Español:</strong> Nativo</li>
-  <li>🇬🇧 <strong>Inglés:</strong> B1</li>
+  <li> <strong>Español:</strong> Nativo</li>
+  <li> <strong>Inglés:</strong> B1</li>
 </ul>
 
 
@@ -60,4 +60,4 @@ Siempre estoy en busca de mejorar mis habilidades y aprender nuevas tecnologías
 
 
 
-<h4 align="center" style="font-family: 'Didot', serif;"> ¡Gracias por visitar mi perfil! :)</h3>
+<h3 style="font-family: 'Didot', serif;"> ¡Gracias por visitar mi perfil! :)</h3>
