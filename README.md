@@ -1,13 +1,11 @@
-## *¡Hola! 👋 soy Yajanny Mena Berro *
+## *¡Hola! 👋 soy Yajanny Mena Berro*
 
-<hr>
 
-### ✨ *Sobre mí*
+### ✨ Sobre mí
 Soy estudiante de Ingeniería de Telecomunicaciones e Informática, apasionada por la tecnología y el desarrollo web. Me encanta trabajar en proyectos innovadores que aporten soluciones eficientes. Siempre estoy en busca de mejorar mis habilidades y aprender nuevas tecnologías.
 
 
-<hr>
-## 🛠️ *Habilidades Técnicas*
+## 🛠️ Habilidades Técnicas
 
 ###  Frontend:  
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -27,21 +25,19 @@ Soy estudiante de Ingeniería de Telecomunicaciones e Informática, apasionada p
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
----
 
-## 🌍 *Idiomas*
+
+## 🌍 Idiomas
 - **Español:** Nativo 
 - **Inglés:** B1 
 
----
 
-## 🎭 *Intereses personales*
+## 🎭 Intereses personales
 Me gusta explorar diferentes formas de expresión y creatividad. Algunas de estas son:  
 📖 **Leer** – Disfruto sumergirme en cada historia o lección.  
 ✍️ **Escribir poemas** – Me permite expresar emociones.  
 🌅 **Ver el atardecer** – Me encanta admirar la belleza que hay en cada atardecer.  
 ✈️ **Viajar** – Me permite salir de mi zona de confort para conocer nuevos lugares.  
 
----
 
 ✨ ¡Gracias por visitar mi perfil! 🚀
