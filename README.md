@@ -29,12 +29,6 @@ Siempre estoy en busca de mejorar mis habilidades y aprender nuevas tecnologías
   <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-<h4 style="font-family: 'Didot', serif;">Lenguajes de programación:</h4>
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-</p>
 
 <h4 style="font-family: 'Didot', serif;">Otros:</h4>
 <p>
