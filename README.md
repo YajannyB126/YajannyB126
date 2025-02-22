@@ -3,7 +3,7 @@
 
 <h2 style="font-family: 'Didot', serif;">✨ Sobre mí</h2>
 <p style="font-family: 'Arial', sans-serif;">
-Apasionada por el desarrollo de software y el desarrollo web. Me encanta trabajar en proyectos innovadores que aporten soluciones eficientes. 
+Soy apasionada por el desarrollo de software y el desarrollo web. Me encanta trabajar en proyectos innovadores que aporten soluciones eficientes. 
 Siempre estoy en busca de mejorar mis habilidades y aprender nuevas tecnologías. Soy una joven soñadora que siempre busca superar sus expectativas,  me gusta estar presente en escenarios que contribuyan a mi desarrollo personal y profesional.
 
  
