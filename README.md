@@ -5,8 +5,8 @@
 ### ✨ *Sobre mí*
 Soy estudiante de Ingeniería de Telecomunicaciones e Informática, apasionada por la tecnología y el desarrollo web. Me encanta trabajar en proyectos innovadores que aporten soluciones eficientes. Siempre estoy en busca de mejorar mis habilidades y aprender nuevas tecnologías.
 
----
 
+<hr>
 ## 🛠️ *Habilidades Técnicas*
 
 ###  Frontend:  
