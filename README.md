@@ -1,5 +1,4 @@
-<h1 align="center">¡Hola! Soy Yajanny Mena Berrio 👩‍💻</h1>
-<h3 align="center">Desarrolladora Frontend | Apasionada por la programación y el desarrollo web</h3>
+## ¡Hola! 👋 soy Yajanny Mena Berro 
 
 ---
 
@@ -31,8 +30,8 @@ Soy estudiante de Ingeniería de Telecomunicaciones e Informática, apasionada p
 ---
 
 ## 🌍 Idiomas  
-- **Español:** Nativo 🇪🇸  
-- **Inglés:** B1 🇬🇧  
+- **Español:** Nativo 
+- **Inglés:** B1 
 
 ---
 
