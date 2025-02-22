@@ -14,33 +14,32 @@ Siempre estoy en busca de mejorar mis habilidades y aprender nuevas tecnologías
 
 <h2 style="font-family: 'Didot', serif;">🛠️ Habilidades Técnicas</h2>
 
-<h3 style="font-family: 'Didot', serif;">Frontend:</h3>
+<h4 style="font-family: 'Didot', serif;">Frontend:</h4>
 <p>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
 </p>
 
-<h3 style="font-family: 'Didot', serif;">Backend:</h3>
+<h4 style="font-family: 'Didot', serif;">Backend:</h4>
 <p>
   <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-<h3 style="font-family: 'Didot', serif;">Lenguajes de programación:</h3>
+<h4 style="font-family: 'Didot', serif;">Lenguajes de programación:</h4>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
-
-
-<h3 style="font-family: 'Didot', serif;">Herramientas esenciales:</h3>
+<h4 style="font-family: 'Didot', serif;">Herramientas esenciales:</h4>
 <p>
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
+
 
 
 
