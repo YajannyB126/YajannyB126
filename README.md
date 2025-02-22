@@ -50,6 +50,12 @@ Siempre estoy en busca de mejorar mis habilidades y aprender nuevas tecnologías
 </ul>
 
 
+<h2 style="font-family: 'Didot', serif;">📩 Contáctame</h2>
+<p style="font-family: 'Arial', sans-serif;">
+  📧 <strong>Correo:</strong> <a href="mailto:tuemail@example.com">yajannymena95@gmail.com</a> <br><br>
+  🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/tuusuario" target="_blank">https://www.linkedin.com/in/yajanny-mena-berrio-224817282/</a>
+</p>
+
 
 <h2 style="font-family: 'Didot', serif;">🎨 Intereses personales</h2>
 <ul style="font-family: 'Arial', sans-serif;">
@@ -60,12 +66,5 @@ Siempre estoy en busca de mejorar mis habilidades y aprender nuevas tecnologías
 </ul>
 
 
-<h2 style="font-family: 'Didot', serif;">📩 Contáctame</h2>
-<p style="font-family: 'Arial', sans-serif;">
-  📧 <strong>Correo:</strong> <a href="mailto:tuemail@example.com">yajannymena95@gmail.com</a> <br><br>
-  🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/tuusuario" target="_blank">https://www.linkedin.com/in/yajanny-mena-berrio-224817282/</a>
-</p>
-
-
-
+<br>
 <p style="font-family: 'Didot', serif;"> ¡Gracias por visitar mi perfil! :)</p>
