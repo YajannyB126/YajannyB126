@@ -23,6 +23,8 @@ Siempre estoy en busca de mejorar mis habilidades y aprender nuevas tecnologías
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" alt="React Native" />
+
 
 </p>
 
@@ -46,7 +48,7 @@ Siempre estoy en busca de mejorar mis habilidades y aprender nuevas tecnologías
 <h2 style="font-family: 'Didot', serif;">🌍 Idiomas</h2>
 <ul style="font-family: 'Arial', sans-serif;">
   <li> <strong>Español:</strong> Nativo</li>
-  <li> <strong>Inglés:</strong> B1</li>
+  <li> <strong>Inglés:</strong> A2</li>
 </ul>
 
 
